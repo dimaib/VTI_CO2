@@ -1,4 +1,4 @@
-# Smart lock for city scooters
+# Air analyzer
 ## Description
 - This device allows you to measure the temperature and humidity of the environment, the concentration of CO2 in the air
 - Allows you to configure the alarm according to these three parameters and associate it with the relays installed on the board
